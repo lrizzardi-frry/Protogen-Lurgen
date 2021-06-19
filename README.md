@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Protogen-Lurgen
+- 👋 Hi, I’m @lrizzardi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python, Network Infrastructure, C++, Java and programming web. :)
 - 💞️ I’m looking to collaborate on my project. u3u
