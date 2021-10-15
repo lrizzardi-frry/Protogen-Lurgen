@@ -14,7 +14,7 @@ Lurgen is a ✨ special ✨ furry because except likes programming, he likes to 
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Lurgen's-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Lurgen-pic" height="150" style="border-radius:50px;" src="blob:https://web.whatsapp.com/02e9e49c-606b-4066-96c4-8b25fe4e9cdb">
+  <img align="right" alt="Lurgen-pic" height="150" style="border-radius:50px;" src="https://scontent-gru1-2.cdninstagram.com/v/t51.2885-15/fr/e15/s1080x1080/235736804_308191534397528_8359681250223188516_n.jpg?_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_cat=108&_nc_ohc=YXukLKWoAUwAX_paLap&edm=AP_V10EBAAAA&ccb=7-4&oh=b84af0aa31890c26a8ac6cb3821d4383&oe=617115FF&_nc_sid=4f375e">
 </div>
   
   ##
