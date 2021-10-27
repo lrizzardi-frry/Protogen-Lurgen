@@ -16,7 +16,7 @@ Lurgen is a ✨ special ✨ furry because except likes programming, he likes to 
   <img align="center" alt="Lurgen's-Python" height="28" width="94" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Lurgen's-JavaScript" height="28" width="124" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Lurgen's-CPlusPlus" height="28" width="68" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="right" alt="Lurgen-pic" height="150" style="border-radius:50px;" src="https://scontent-gru1-2.cdninstagram.com/v/t51.2885-15/fr/e15/s1080x1080/235736804_308191534397528_8359681250223188516_n.jpg?_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_cat=108&_nc_ohc=YXukLKWoAUwAX_paLap&edm=AP_V10EBAAAA&ccb=7-4&oh=b84af0aa31890c26a8ac6cb3821d4383&oe=617115FF&_nc_sid=4f375e">
+
 </div>
   
   ##
